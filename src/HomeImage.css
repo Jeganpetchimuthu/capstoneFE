@@ -1,0 +1,22 @@
+.icon {
+  margin: 0px;
+  margin-top: 0px;
+  border: 1px solid rgb(84, 83, 83);
+  height: 590px;
+  background-color: rgb(15, 15, 15);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+}
+.logo {
+  margin-left: 210px;
+  margin-top: 250px;
+  width: 100px;
+  height: 100px;
+  padding: 20px 20px;
+  background-color: rgb(241, 11, 11);
+  padding: 10px 10px;
+  border-radius: 50px;
+}

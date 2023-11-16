@@ -1,0 +1,38 @@
+.Message {
+  border: 1px solid rgb(84, 83, 83);
+  height: 590px;
+  background-color: rgb(14, 14, 14);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+}
+.msg-input_box {
+  padding: 10px 10px;
+  border: 1px solid rgb(84, 83, 83);
+  border-radius: 10px;
+
+  margin-left: 150px;
+  margin-bottom: 100px;
+  background-color: rgb(84, 83, 83);
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: beige;
+  width: 250px;
+}
+.msg-content {
+  color: white;
+  margin-left: 50px;
+  margin-top: 60px;
+  text-align: center;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+.msg-icon {
+  margin-left: -30px;
+  margin-top: -50px;
+  color: rgb(243, 236, 236);
+  padding: 10px;
+}

@@ -1,0 +1,45 @@
+.public_profile {
+  border: 1px solid rgb(84, 83, 83);
+  height: 590px;
+  background-color: rgb(7, 7, 7);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+}
+.public_profile-user {
+  background-color: rgb(35, 35, 35);
+  padding: 10px 10px;
+}
+.form_container {
+  font-family: sans-serif;
+  justify-content: center;
+  align-items: center;
+  margin-left: 150px;
+  margin-top: 250px;
+  font-weight: bold;
+  color: brown;
+  text-decoration-color: blue;
+  font-style: italic;
+}
+.lable-content {
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.public_profile-user {
+  color: white;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+.done-btn {
+  padding: 3px 3px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-left: 80px;
+  margin-top: 2px;
+  border-radius: 5px;
+}

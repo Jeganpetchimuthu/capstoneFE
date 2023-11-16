@@ -1,0 +1,21 @@
+.SearchIcon {
+  border: 1px solid rgb(84, 83, 83);
+  height: 590px;
+  background-color: rgb(7, 7, 7);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+}
+.search_cols {
+  padding: 10px 10px;
+  border: 1px solid rgb(33, 32, 32);
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-left: 150px;
+  background-color: rgb(84, 83, 83);
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: beige;
+}

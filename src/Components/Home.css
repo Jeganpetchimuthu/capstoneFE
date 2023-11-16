@@ -1,0 +1,26 @@
+.Home-components {
+  border: 1px solid rgb(84, 83, 83);
+  height: 590px;
+  background-color: rgb(20, 19, 19);
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border-radius: 4px;
+  margin-left: 300px;
+  overflow: auto;
+}
+
+.img-head {
+  color: white;
+  margin-left: 200px;
+  margin-top: 30px;
+  font-family: sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+.img-flex {
+  margin-left: 0px;
+  width: 250px;
+  height: 900px;
+  padding: 10px 10px;
+}
